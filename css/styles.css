@@ -1,0 +1,18 @@
+div.carousel-caption {
+  color:black;
+  font-style:bold;
+}
+h1,h2,h3 {
+    text-align: center;
+}
+div.aboutus {
+  padding: 10%;
+  margin-bottom: 10%;
+}
+
+div.socialmedia{
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  flex-direction: row;
+}
