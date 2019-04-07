@@ -1,0 +1,47 @@
+/*fit bruschetta image to container*/
+
+/* Style social media buttons*/
+.fa {
+  margin: 0;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+
+  font-size: 30px;
+  width: 75px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #EAA1F4;
+  color: white;
+}
+
+/* Make the icons circular */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
