@@ -1,3 +1,14 @@
+body {
+  background-image: url("bg_cooking.jpg");
+  background-repeat: repeat;
+}
+
+/* A link that has not been visited */
+a:link, a:visited, a:hover, a:active {
+    color: black;
+    text-decoration: none;
+}
+
 /* Style social media buttons*/
 .fa {
   margin: 0;
@@ -80,4 +91,9 @@ div.socialmedia{
   justify-content: space-around;
   align-items:center;
   flex-direction: row;
+}
+
+.text{
+  background: rgb(232, 232, 232);
+  background: rgba(232, 232, 232, 0.5);
 }
