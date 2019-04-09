@@ -1,5 +1,3 @@
-/*fit bruschetta image to container*/
-
 /* Style social media buttons*/
 .fa {
   margin: 0;
@@ -8,7 +6,7 @@
   left: 50%;
 
   font-size: 30px;
-  width: 75px;
+  width: 70px;
   text-align: center;
   text-decoration: none;
 }
@@ -45,12 +43,36 @@
   text-decoration: none;
   border-radius: 50%;
 }
-h1,h2,h3 {
+
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2,h3 {
     text-align: center;
 }
+
+h4,h5 {
+    margin-left: 5%;
+}
+
+ul.ing {
+  margin-left: 3%;
+}
+
+ol.method {
+  margin-left: 3%;
+}
+
 div.aboutus {
-  padding: 10%;
+  padding: 5%;
   margin-bottom: 10%;
+}
+
+form.submitform {
+  padding: 5%;
+  margin-bottom: 1%;
 }
 
 div.socialmedia{
